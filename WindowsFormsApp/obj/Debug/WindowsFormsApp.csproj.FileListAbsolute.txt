@@ -1,0 +1,10 @@
+C:\repos\TQL-WinForms\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\repos\TQL-WinForms\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\repos\TQL-WinForms\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\repos\TQL-WinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\repos\TQL-WinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\repos\TQL-WinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\repos\TQL-WinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\repos\TQL-WinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\repos\TQL-WinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\repos\TQL-WinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
